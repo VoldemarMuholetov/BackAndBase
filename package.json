@@ -1,0 +1,25 @@
+{
+  "name": "backandbase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node main.js",
+    "start:dev": "nodemon main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VoldemarMuholetov/BackAndBase.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VoldemarMuholetov/BackAndBase/issues"
+  },
+  "homepage": "https://github.com/VoldemarMuholetov/BackAndBase#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
